@@ -1,3 +1,2 @@
-/Unconfirmed 412953.crdownload
-/Unconfirmed 560953.crdownload
-/env
+env/
+__pycache__/
