@@ -5,8 +5,12 @@ See source code for model in [model.py](./model.py) and source code for statisti
 # Classifier Metrics
 
 Accuracy = 0.8371428571428572
+
 Precision = 0.9896265560165975
+
 Recall = 0.6814285714285714
+
+
 
 F1-Score = 0.8071065989847717
 
