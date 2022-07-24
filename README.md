@@ -1,6 +1,6 @@
 # Face Mask Model Analysis
 
-Demo website at: https://github.com/samuel-adekunle/face-mask-model-analysis
+Demo website at: https://samuel-adekunle.github.io/face-detector/
 
 See source code for model in [model.py](./model.py) and source code for statistical work up in [main.py](./main.py)
 
